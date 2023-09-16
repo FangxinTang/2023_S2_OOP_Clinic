@@ -1,5 +1,6 @@
 # OOP_Clinic
 2023S2 COMP642 Advanced Programming - Individual Assignment 2 
+---------------------------------
 
 Using Model View Controller (MVC) pattern to design a Clinic Management System
 • The model deals with the information about patients, doctors, and consultations
