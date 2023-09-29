@@ -1,6 +1,6 @@
 # Semester Two 2023 | COMP642 Advanced Programming | Invididual Assignment 2
 ---------------------------------
-#### Marks: 
+#### Marks: 92/100
 ---------------------------------
 ### Requirments
 Using Model View Controller (MVC) pattern to design a Clinic Management System
